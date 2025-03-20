@@ -1,1 +1,1 @@
-lk1st-msm8916-17.0-next-80a7c67f-20240705
+based on https://github.com/msm8916-mainline/lk2nd.git 80a7c67fa836dd15eb029f5bd5df56c94756db78
